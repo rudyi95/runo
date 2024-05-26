@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/runo/static/css/main.f855e6bc.css",
+    "main.js": "/runo/static/js/main.a5fb0c19.js",
+    "static/js/453.ed3810f9.chunk.js": "/runo/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/runo/index.html",
+    "main.f855e6bc.css.map": "/runo/static/css/main.f855e6bc.css.map",
+    "main.a5fb0c19.js.map": "/runo/static/js/main.a5fb0c19.js.map",
+    "453.ed3810f9.chunk.js.map": "/runo/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a5fb0c19.js"
+  ]
+}
