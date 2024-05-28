@@ -1,15 +1,32 @@
 {
   "files": {
-    "main.css": "/runo/static/css/main.f855e6bc.css",
-    "main.js": "/runo/static/js/main.a5fb0c19.js",
-    "static/js/453.ed3810f9.chunk.js": "/runo/static/js/453.ed3810f9.chunk.js",
+    "main.css": "/runo/static/css/main.bfd21b30.css",
+    "main.js": "/runo/static/js/main.51d388e1.js",
+    "static/js/453.68693753.chunk.js": "/runo/static/js/453.68693753.chunk.js",
+    "static/media/BigPost.png": "/runo/static/media/BigPost.75047d4089ed6b2cdfa1.png",
+    "static/media/BlogSlider.png": "/runo/static/media/BlogSlider.bcc181af2c3ab49dbb52.png",
+    "static/media/BlogSlider4.png": "/runo/static/media/BlogSlider4.22b403ddca32957266e9.png",
+    "static/media/BlogSlider3.png": "/runo/static/media/BlogSlider3.a595c5cb10f4ca381fec.png",
+    "static/media/BlogSlider2.png": "/runo/static/media/BlogSlider2.bb28d40e6ec651da6923.png",
+    "static/media/7.jpg": "/runo/static/media/7.d449910eaab42f0b33b6.jpg",
+    "static/media/1.jpg": "/runo/static/media/1.946f674147a2576f39ca.jpg",
+    "static/media/3.jpg": "/runo/static/media/3.85b9f8e0df6ca34cd788.jpg",
+    "static/media/6.jpg": "/runo/static/media/6.77d51eadec72e2d92194.jpg",
+    "static/media/2.jpg": "/runo/static/media/2.f730b015c69db155aeaf.jpg",
+    "static/media/5.jpg": "/runo/static/media/5.f1083371736ec5d45efd.jpg",
+    "static/media/8.jpg": "/runo/static/media/8.1d1bf51e674694aea4a6.jpg",
+    "static/media/4.jpg": "/runo/static/media/4.4432c74e6199e2ab61cb.jpg",
+    "static/media/slick.svg": "/runo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/runo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/runo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/runo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/runo/index.html",
-    "main.f855e6bc.css.map": "/runo/static/css/main.f855e6bc.css.map",
-    "main.a5fb0c19.js.map": "/runo/static/js/main.a5fb0c19.js.map",
-    "453.ed3810f9.chunk.js.map": "/runo/static/js/453.ed3810f9.chunk.js.map"
+    "main.bfd21b30.css.map": "/runo/static/css/main.bfd21b30.css.map",
+    "main.51d388e1.js.map": "/runo/static/js/main.51d388e1.js.map",
+    "453.68693753.chunk.js.map": "/runo/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a5fb0c19.js"
+    "static/css/main.bfd21b30.css",
+    "static/js/main.51d388e1.js"
   ]
 }
