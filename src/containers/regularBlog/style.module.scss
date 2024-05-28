@@ -1,0 +1,17 @@
+.root {
+  max-width: 1300px;
+  margin: auto;
+  padding: 130px 0 130px 0;
+}
+
+.contentHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}

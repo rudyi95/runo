@@ -1,0 +1,15 @@
+.root {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  background-color: #343a40;
+  color: white;
+}
+
+.container {
+  width: 1300px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

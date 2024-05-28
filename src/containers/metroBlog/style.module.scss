@@ -1,0 +1,15 @@
+.root {
+  max-width: 1300px;
+  margin: auto;
+  padding: 130px 0 130px 0;
+}
+
+.imgRow {
+  display: flex;
+  justify-content: space-between;
+
+  & img {
+    max-width: 420px;
+    height: auto;
+  }
+}

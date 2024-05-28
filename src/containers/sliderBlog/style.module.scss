@@ -1,0 +1,11 @@
+.root {
+  height: 600px;
+  margin-top: -80px;
+}
+
+.imgContainer {
+  & img {
+    width: 100%;
+    height: auto;
+  }
+}

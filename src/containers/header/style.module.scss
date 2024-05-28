@@ -1,0 +1,32 @@
+.root {
+  height: 10vw;
+  max-height: 80px;
+  background-color: rgb(0, 0, 0, 0.5) !important;
+  z-index: 1;
+}
+
+.toolbar {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navContainer {
+  display: flex;
+  align-items: center;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+}
+
+.searchBlock {
+  display: flex;
+  align-items: center;
+}
