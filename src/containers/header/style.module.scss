@@ -14,16 +14,30 @@
 .navContainer {
   display: flex;
   align-items: center;
+
+  & > div {
+    border-right: 1px #fff solid;
+    padding: 0 15px 0 15px;
+  }
+  & > div:last-child {
+    border-right: none;
+  }
 }
 
 .nav {
   display: flex;
   align-items: center;
+  gap: 15px;
+
+  & > p:hover {
+    border-bottom: 1px #fff solid;
+  }
 }
 
 .links {
   display: flex;
   align-items: center;
+  gap: 15px;
 }
 
 .searchBlock {
